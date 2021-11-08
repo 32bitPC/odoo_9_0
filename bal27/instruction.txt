@@ -1,0 +1,1 @@
+To update changes, Update apps list then restart service
